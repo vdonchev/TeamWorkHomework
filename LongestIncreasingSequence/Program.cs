@@ -10,7 +10,7 @@
 
         static void Main()
         {
-            int[] nums = { 1, 2, 3, 5, 0, 6, 17, 16, 33, 1, 5, 9, 90, 111, 1001, 5, 3, 4, 8, 12, 33 };
+            int[] nums = { 1, 2, 3, 5, 0, 6, 17, 16, 33, 1, 5, 9, 90, 111, 1001, 5, 3, 4, 8, 12, 33, 5 };
             for (int i = 0; i < nums.Length; i++)
             {
                 List<int> tempNums = new List<int>();
